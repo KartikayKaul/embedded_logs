@@ -7,11 +7,11 @@ name = "embedded-log-labs"
 version = "1.0.0"
 description = "7-lab embedded log simulation and analysis project"
 requires-python = ">=3.10"
-authors = [{name="CodeWithPower"}]
+authors = [{name="Papi"}]
 dependencies = []
 
 [tool.setuptools.packages.find]
-where = ["src"]
+where = ["embedded_logs"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
