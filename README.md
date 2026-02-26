@@ -1,4 +1,5 @@
-# Embedded Log Labs (Python) — Generator ➜ Capture ➜ Parse ➜ Panic Detect ➜ CSV Report ➜ Pytest ➜ CI
+# Embedded Log Labs (Python) 
+— Generator ➜ Capture ➜ Parse ➜ Panic Detect ➜ CSV Report ➜ Pytest ➜ CI
 
 This repo is a **7-lab mini project**:
 1) Simulate device logs using a Python generator
