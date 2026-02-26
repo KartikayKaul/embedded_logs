@@ -1,5 +1,5 @@
 from pathlib import Path
-from src.embedded_log_labs.analyze import analyze_file, verdict
+from embedded_log_labs.analyze import analyze_file, verdict
 
 def test_analyze_file_and_verdict(tmp_path: Path):
     log = tmp_path / "device.log"

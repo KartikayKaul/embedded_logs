@@ -1,4 +1,4 @@
-from src.embedded_log_labs.parser import LogParser
+from embedded_log_labs.parser import LogParser
 
 def test_counts_info_warn_error():
     lines = [
